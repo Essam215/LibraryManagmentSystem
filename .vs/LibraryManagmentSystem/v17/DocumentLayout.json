@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\LibraryManagmentSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53B501DC-0B2A-44E1-AFE0-F13305C983F5}|LibraryManagmentSystem\\LibraryManagmentSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\librarymanagmentsystem\\librarymanagmentsystem\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B501DC-0B2A-44E1-AFE0-F13305C983F5}|LibraryManagmentSystem\\LibraryManagmentSystem.csproj|solutionrelative:librarymanagmentsystem\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B501DC-0B2A-44E1-AFE0-F13305C983F5}|LibraryManagmentSystem\\LibraryManagmentSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\librarymanagmentsystem\\librarymanagmentsystem\\repos\\interfaces\\ibookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B501DC-0B2A-44E1-AFE0-F13305C983F5}|LibraryManagmentSystem\\LibraryManagmentSystem.csproj|solutionrelative:librarymanagmentsystem\\repos\\interfaces\\ibookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B501DC-0B2A-44E1-AFE0-F13305C983F5}|LibraryManagmentSystem\\LibraryManagmentSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\librarymanagmentsystem\\librarymanagmentsystem\\repos\\implementations\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B501DC-0B2A-44E1-AFE0-F13305C983F5}|LibraryManagmentSystem\\LibraryManagmentSystem.csproj|solutionrelative:librarymanagmentsystem\\repos\\implementations\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B501DC-0B2A-44E1-AFE0-F13305C983F5}|LibraryManagmentSystem\\LibraryManagmentSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\librarymanagmentsystem\\librarymanagmentsystem\\repos\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B501DC-0B2A-44E1-AFE0-F13305C983F5}|LibraryManagmentSystem\\LibraryManagmentSystem.csproj|solutionrelative:librarymanagmentsystem\\repos\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B501DC-0B2A-44E1-AFE0-F13305C983F5}|LibraryManagmentSystem\\LibraryManagmentSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\librarymanagmentsystem\\librarymanagmentsystem\\repos\\implementations\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B501DC-0B2A-44E1-AFE0-F13305C983F5}|LibraryManagmentSystem\\LibraryManagmentSystem.csproj|solutionrelative:librarymanagmentsystem\\repos\\implementations\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B501DC-0B2A-44E1-AFE0-F13305C983F5}|LibraryManagmentSystem\\LibraryManagmentSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\librarymanagmentsystem\\librarymanagmentsystem\\repos\\interfaces\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B501DC-0B2A-44E1-AFE0-F13305C983F5}|LibraryManagmentSystem\\LibraryManagmentSystem.csproj|solutionrelative:librarymanagmentsystem\\repos\\interfaces\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B501DC-0B2A-44E1-AFE0-F13305C983F5}|LibraryManagmentSystem\\LibraryManagmentSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\librarymanagmentsystem\\librarymanagmentsystem\\models\\borrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B501DC-0B2A-44E1-AFE0-F13305C983F5}|LibraryManagmentSystem\\LibraryManagmentSystem.csproj|solutionrelative:librarymanagmentsystem\\models\\borrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B501DC-0B2A-44E1-AFE0-F13305C983F5}|LibraryManagmentSystem\\LibraryManagmentSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\librarymanagmentsystem\\librarymanagmentsystem\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B501DC-0B2A-44E1-AFE0-F13305C983F5}|LibraryManagmentSystem\\LibraryManagmentSystem.csproj|solutionrelative:librarymanagmentsystem\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B501DC-0B2A-44E1-AFE0-F13305C983F5}|LibraryManagmentSystem\\LibraryManagmentSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\librarymanagmentsystem\\librarymanagmentsystem\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B501DC-0B2A-44E1-AFE0-F13305C983F5}|LibraryManagmentSystem\\LibraryManagmentSystem.csproj|solutionrelative:librarymanagmentsystem\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B501DC-0B2A-44E1-AFE0-F13305C983F5}|LibraryManagmentSystem\\LibraryManagmentSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\librarymanagmentsystem\\librarymanagmentsystem\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B501DC-0B2A-44E1-AFE0-F13305C983F5}|LibraryManagmentSystem\\LibraryManagmentSystem.csproj|solutionrelative:librarymanagmentsystem\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B501DC-0B2A-44E1-AFE0-F13305C983F5}|LibraryManagmentSystem\\LibraryManagmentSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\librarymanagmentsystem\\librarymanagmentsystem\\data\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B501DC-0B2A-44E1-AFE0-F13305C983F5}|LibraryManagmentSystem\\LibraryManagmentSystem.csproj|solutionrelative:librarymanagmentsystem\\data\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B501DC-0B2A-44E1-AFE0-F13305C983F5}|LibraryManagmentSystem\\LibraryManagmentSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\librarymanagmentsystem\\librarymanagmentsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B501DC-0B2A-44E1-AFE0-F13305C983F5}|LibraryManagmentSystem\\LibraryManagmentSystem.csproj|solutionrelative:librarymanagmentsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B501DC-0B2A-44E1-AFE0-F13305C983F5}|LibraryManagmentSystem\\LibraryManagmentSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\librarymanagmentsystem\\librarymanagmentsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{53B501DC-0B2A-44E1-AFE0-F13305C983F5}|LibraryManagmentSystem\\LibraryManagmentSystem.csproj|solutionrelative:librarymanagmentsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBookRepo.cs",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\LibraryManagmentSystem\\LibraryManagmentSystem\\Repos\\Interfaces\\IBookRepo.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystem\\Repos\\Interfaces\\IBookRepo.cs",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\LibraryManagmentSystem\\LibraryManagmentSystem\\Repos\\Interfaces\\IBookRepo.cs",
+              "RelativeToolTip": "LibraryManagmentSystem\\Repos\\Interfaces\\IBookRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:57:48.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\LibraryManagmentSystem\\LibraryManagmentSystem\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystem\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\LibraryManagmentSystem\\LibraryManagmentSystem\\Controllers\\BookController.cs",
+              "RelativeToolTip": "LibraryManagmentSystem\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:55:56.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\LibraryManagmentSystem\\LibraryManagmentSystem\\Repos\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystem\\Repos\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\LibraryManagmentSystem\\LibraryManagmentSystem\\Repos\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "LibraryManagmentSystem\\Repos\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:53:53.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\LibraryManagmentSystem\\LibraryManagmentSystem\\Repos\\Implementations\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystem\\Repos\\Implementations\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\LibraryManagmentSystem\\LibraryManagmentSystem\\Repos\\Implementations\\UnitOfWork.cs",
+              "RelativeToolTip": "LibraryManagmentSystem\\Repos\\Implementations\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:52:06.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\LibraryManagmentSystem\\LibraryManagmentSystem\\Repos\\Implementations\\GenericRepo.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystem\\Repos\\Implementations\\GenericRepo.cs",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\LibraryManagmentSystem\\LibraryManagmentSystem\\Repos\\Implementations\\GenericRepo.cs",
+              "RelativeToolTip": "LibraryManagmentSystem\\Repos\\Implementations\\GenericRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:48:14.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\LibraryManagmentSystem\\LibraryManagmentSystem\\Repos\\Interfaces\\IGenericRepo.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystem\\Repos\\Interfaces\\IGenericRepo.cs",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\LibraryManagmentSystem\\LibraryManagmentSystem\\Repos\\Interfaces\\IGenericRepo.cs",
+              "RelativeToolTip": "LibraryManagmentSystem\\Repos\\Interfaces\\IGenericRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:46:00.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\LibraryManagmentSystem\\LibraryManagmentSystem\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\LibraryManagmentSystem\\LibraryManagmentSystem\\Program.cs",
+              "RelativeToolTip": "LibraryManagmentSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:20:44.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\LibraryManagmentSystem\\LibraryManagmentSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "LibraryManagmentSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\LibraryManagmentSystem\\LibraryManagmentSystem\\appsettings.json",
+              "RelativeToolTip": "LibraryManagmentSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-05T11:18:55.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LibraryContext.cs",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\LibraryManagmentSystem\\LibraryManagmentSystem\\Data\\LibraryContext.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystem\\Data\\LibraryContext.cs",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\LibraryManagmentSystem\\LibraryManagmentSystem\\Data\\LibraryContext.cs",
+              "RelativeToolTip": "LibraryManagmentSystem\\Data\\LibraryContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:16:28.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Borrowing.cs",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\LibraryManagmentSystem\\LibraryManagmentSystem\\Models\\Borrowing.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystem\\Models\\Borrowing.cs",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\LibraryManagmentSystem\\LibraryManagmentSystem\\Models\\Borrowing.cs",
+              "RelativeToolTip": "LibraryManagmentSystem\\Models\\Borrowing.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:14:14.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\LibraryManagmentSystem\\LibraryManagmentSystem\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystem\\Models\\Member.cs",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\LibraryManagmentSystem\\LibraryManagmentSystem\\Models\\Member.cs",
+              "RelativeToolTip": "LibraryManagmentSystem\\Models\\Member.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:07:59.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\LibraryManagmentSystem\\LibraryManagmentSystem\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystem\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\LibraryManagmentSystem\\LibraryManagmentSystem\\Models\\Book.cs",
+              "RelativeToolTip": "LibraryManagmentSystem\\Models\\Book.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:05:20.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\LibraryManagmentSystem\\LibraryManagmentSystem\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystem\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\LibraryManagmentSystem\\LibraryManagmentSystem\\Models\\Category.cs",
+              "RelativeToolTip": "LibraryManagmentSystem\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:01:23.336Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
